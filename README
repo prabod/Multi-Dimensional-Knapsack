@@ -1,0 +1,12 @@
+How to Run
+
+1) Dynamic Programming Approach
+
+"python dynamicKnapsack.py -f filename"
+ex: "python dynamicKnapsack.py -f test1.pref"
+
+
+2) Local Search Approach
+
+"python NEATknapsack.py -f filename"
+ex: "python NEATknapsack.py -f test1.pref"
